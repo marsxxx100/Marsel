@@ -1,0 +1,15 @@
+C:\Users\mars1\source\repos\Marsel\bin\Debug\net6.0\Marsel.exe
+C:\Users\mars1\source\repos\Marsel\bin\Debug\net6.0\Marsel.deps.json
+C:\Users\mars1\source\repos\Marsel\bin\Debug\net6.0\Marsel.runtimeconfig.json
+C:\Users\mars1\source\repos\Marsel\bin\Debug\net6.0\Marsel.dll
+C:\Users\mars1\source\repos\Marsel\bin\Debug\net6.0\Marsel.pdb
+C:\Users\mars1\source\repos\Marsel\obj\Debug\net6.0\Marsel.csproj.AssemblyReference.cache
+C:\Users\mars1\source\repos\Marsel\obj\Debug\net6.0\Marsel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mars1\source\repos\Marsel\obj\Debug\net6.0\Marsel.AssemblyInfoInputs.cache
+C:\Users\mars1\source\repos\Marsel\obj\Debug\net6.0\Marsel.AssemblyInfo.cs
+C:\Users\mars1\source\repos\Marsel\obj\Debug\net6.0\Marsel.csproj.CoreCompileInputs.cache
+C:\Users\mars1\source\repos\Marsel\obj\Debug\net6.0\Marsel.dll
+C:\Users\mars1\source\repos\Marsel\obj\Debug\net6.0\refint\Marsel.dll
+C:\Users\mars1\source\repos\Marsel\obj\Debug\net6.0\Marsel.pdb
+C:\Users\mars1\source\repos\Marsel\obj\Debug\net6.0\Marsel.genruntimeconfig.cache
+C:\Users\mars1\source\repos\Marsel\obj\Debug\net6.0\ref\Marsel.dll
